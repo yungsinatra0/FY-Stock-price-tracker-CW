@@ -1,6 +1,6 @@
 # Stock price tracker
  
-Simple Python script that uses [Yahoo_fin](http://theautomatic.net/yahoo_fin-documentation/) to scrape stock prices from [Yahoo Finance](https://finance.yahoo.com/) at scheduled times.
+Simple Python script that uses [Yahoo_fin](http://theautomatic.net/yahoo_fin-documentation/) to scrape stock prices from [Yahoo Finance](https://finance.yahoo.com/) at scheduled times. It was used for my coursework in the Macroeconomics coursework.
 
 # Prerequisites
 
