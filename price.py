@@ -22,10 +22,6 @@ def job():
     list.append(price_jet)
     price_ocdo = si.get_live_price("ocdo.l") / 100
     list.append(price_ocdo)
-    price_tsco = si.get_live_price("tsco.l") / 100
-    list.append(price_tsco)
-    price_barc = si.get_live_price("barc.l") / 100 
-    list.append(price_barc)
     price_ftse = si.get_live_price("^FTSE")
     list.append(price_ftse)
 
