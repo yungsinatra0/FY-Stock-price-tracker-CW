@@ -4,4 +4,4 @@ Simple Python script that uses [Yahoo_fin](http://theautomatic.net/yahoo_fin-doc
 
 # Prerequisites
 
-Make sure you have Yahoo_fin and schedule installed and have the latest version of Python installed.
+Make sure you have Yahoo_fin and schedule installed and have the latest version of Python.
